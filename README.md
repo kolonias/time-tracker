@@ -6,3 +6,4 @@ Java (Maven) application for tracking time on the job
 This purpose of this project is to show how to use Maven and Jenkins together.
 
 Will this cause Jenkins to build?
+Second attempt, come on give me something!!
